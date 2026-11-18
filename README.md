@@ -2,11 +2,14 @@
 
 A production-ready AI-powered financial analysis assistant built with Streamlit, LangChain, and Groq. Upload CSV data or PDF documents, ask questions in plain English, and get instant insights, interactive charts, and AI-driven answers — with user authentication and persistent chat history.
 
-![Python](https://img.shields.io/badge/Python-3.11+-blue?logo=python)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.40-red?logo=streamlit)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-agent-financial-analysis-hardik-shah.streamlit.app/)
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/Streamlit-1.40+-red?logo=streamlit)
 ![LangChain](https://img.shields.io/badge/LangChain-0.3-green?logo=chainlink)
 ![Supabase](https://img.shields.io/badge/Supabase-Auth%20%2B%20DB-darkgreen?logo=supabase)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+
+🌐 **Live Application:** [ai-agent-financial-analysis-hardik-shah.streamlit.app](https://ai-agent-financial-analysis-hardik-shah.streamlit.app/)
 
 ---
 
